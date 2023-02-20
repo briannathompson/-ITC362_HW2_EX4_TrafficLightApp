@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrafficLightApp</string>
+
+<!-- Added Traffic Light Strings-->
+    <string name="stop_text">Stop</string>
+    <string name="go_text">Go</string>
+    <string name="wait_text">Wait</string>
+
+</resources>
